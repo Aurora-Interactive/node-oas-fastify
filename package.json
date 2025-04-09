@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0-semantically-released",
-  "name": "oas-fastify",
+  "version": "5.0.0",
+  "name": "@aurora-interactive/oas-fastify",
   "description": "OAS 3.x to Fastify routes automation",
   "author": "Ahmad Nassri <email@ahmadnassri.com> (https://www.ahmadnassri.com)",
   "homepage": "https://github.com/ahmadnassri/node-oas-fastify",
